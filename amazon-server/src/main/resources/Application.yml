@@ -1,0 +1,5 @@
+eureka :client:
+register with Eureka:false
+    fetch-registry:false
+    server:port:8761;
+    spring:application:name:amazon:server
